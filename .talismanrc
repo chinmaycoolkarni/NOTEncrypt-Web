@@ -5,4 +5,8 @@ fileignoreconfig:
   checksum: 857c6ef1eee2399cab2b5d2c1b0a128de2c54d0bdc53178c5cbaedf82e235095
 - filename: src/main/java/com/example/NOTEncrypt/controllers/AuthController.java
   checksum: d537414496ee537e19810dd7e3e2620ba935327dfa2e9cae3b4fc8ada447d0a2
+- filename: src/main/java/com/example/NOTEncrypt/security/JwtHelper.java
+  checksum: e5d8d6959836c4db2a7342424356057b528f32c635b8cdac8d665800e3b33dbe
+- filename: src/main/java/com/example/NOTEncrypt/security/JwtAuthenticationFilter.java
+  checksum: 476ef8321db8321b921cfd979df5a1ab2cd3517d844d1c803e00fb8c252479eb
 version: "1.2"
