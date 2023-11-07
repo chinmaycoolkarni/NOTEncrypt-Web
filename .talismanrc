@@ -3,4 +3,6 @@ fileignoreconfig:
   checksum: 9a0e968807e91279b4856750466e5aab9eeac7305e4ec8463979cb7cb0525f67
 - filename: notencrypt-fe/package-lock.json
   checksum: 857c6ef1eee2399cab2b5d2c1b0a128de2c54d0bdc53178c5cbaedf82e235095
-version: "1.1"
+- filename: src/main/java/com/example/NOTEncrypt/controllers/AuthController.java
+  checksum: d537414496ee537e19810dd7e3e2620ba935327dfa2e9cae3b4fc8ada447d0a2
+version: "1.2"
